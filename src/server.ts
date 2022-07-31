@@ -1,3 +1,3 @@
-const firstName: string = "Simon";
+const Name: string = "Simon";
 
-console.log(`Hello ${firstName}`);
+console.log(`Hello ${Name}`);
