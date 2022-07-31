@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.6.3",
+    "typescript": "^4.7.4"
+  },
+  "name": "nodescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAINZORkN/nodeScript.git"
+  },
+  "author": "PAINZOR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAINZORkN/nodeScript/issues"
+  },
+  "homepage": "https://github.com/PAINZORkN/nodeScript#readme",
+  "description": ""
+}
