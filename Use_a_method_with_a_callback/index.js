@@ -1,6 +1,6 @@
 const {writeFile} = require('fs')
 
-let data = 'This is a file'
+let data = 'Hello Node!'
 
 writeFile("test.txt", data, (err) => {
     if(err) {
